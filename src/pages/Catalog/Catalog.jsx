@@ -126,7 +126,7 @@ const Catalog = () => {
             </div>
           </div>
 
-          <div className="catalog__filter__widget">
+          {/* <div className="catalog__filter__widget">
             <div className="catalog__filter__widget__title">màu sắc</div>
             <div className="catalog__filter__widget__content">
               {colors.map((item, index) => (
@@ -144,9 +144,9 @@ const Catalog = () => {
                 </div>
               ))}
             </div>
-          </div>
+          </div> */}
 
-          <div className="catalog__filter__widget">
+          {/* <div className="catalog__filter__widget">
             <div className="catalog__filter__widget__title">kích cỡ</div>
             <div className="catalog__filter__widget__content">
               {size.map((item, index) => (
@@ -164,7 +164,7 @@ const Catalog = () => {
                 </div>
               ))}
             </div>
-          </div>
+          </div> */}
 
           <div className="catalog__filter__widget">
             <div className="catalog__filter__widget__content">

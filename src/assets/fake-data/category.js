@@ -1,15 +1,15 @@
 const category = [
     {
-        display: "Áo thun",
-        categorySlug: "ao-thun"
+        display: "Phân bón",
+        categorySlug: "phan-bon"
     },
     {
-        display: "Áo somi",
-        categorySlug: "ao-somi"
+        display: "Hạt giống",
+        categorySlug: "hat-giong"
     },
     {
-        display: "Quần jean",
-        categorySlug: "quan-jean"
+        display: "Thức ăn gia súc",
+        categorySlug: "thuc-an"
     }
 ]
 

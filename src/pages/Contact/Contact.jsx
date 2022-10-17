@@ -7,12 +7,12 @@ const contact_infos = [
   {
     icon: "bx bxs-map",
     name: "Địa chỉ",
-    detail: "Công ty cổ phần Thời trang YODY",
+    detail: "Hợp tác xã ABC",
   },
   {
     icon: "bx bx-question-mark",
     name: "Gửi thắc mắc",
-    detail: "chamsockhachhang@yody.vn",
+    detail: "netfarmwebservice@web.vn",
     type: "email",
   },
   {
@@ -56,7 +56,7 @@ const Contact = () => {
                   <a
                     href={
                       item.type === "email"
-                        ? `mailto:chamsockhachhang@yody.vn`
+                        ? `mailto:netfarmwebservice@service.vn`
                         : item.type === "phone"
                           ? "tel:02473056665"
                           : "/"

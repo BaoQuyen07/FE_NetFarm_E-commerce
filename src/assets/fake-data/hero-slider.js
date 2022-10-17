@@ -6,22 +6,22 @@ const img3 = require("../images/slider/slide_3.png").default
 
 const heroSliderData = [
     {
-        title: "Polo nữ Pima cao cấp",
-        description: "Nhắc đến sự đẳng cấp là không thể không nhắc đến dòng vải pima. Nó tạo nên chất lượng tốt nhất cho bất kỳ sản phẩm thời trang nào. Sợi vải pima dài và dày hơn sợi cotton thông thường gấp đôi nhờ công nghệ dệt tân tiến. Điều đó làm cho kết cấu áo polo chắc chắn, bền chặt, hạn chế tối đa xù lông, mềm mượt, bền màu, vô cùng đảm bảo sức khoẻ người dùng",
+        title: "Hạt giống cà rốt baby",
+        description: "Cà rốt Baby là một trong những giống cây trồng đang trở thành cơn sốt với những người yêu thích công việc làm vườn. Sở hữu thân hình nhỏ nhắn cùng màu sắc nổi bật, cà rốt Baby được cho là chứa hàm lượng dinh dưỡng cao, vừa có thể làm thực phẩm thơm ngon trong ẩm thực, vừa phù hợp để trồng làm cây cảnh.",
         img: img1,
         color: "blue",
         path: "/catalog/ao-thun-dinosaur-01"
     },
     {
-        title: "Polo Nữ Dáng Suông",
-        description: "Polo nữ dáng suông Modal sử dụng công nghệ vải cao cấp thân thiện với môi trường sản xuất độc quyền chống co rút vải, áo polo nữ vải modal là sản phẩm thích hợp cho các bạn có môi trường làm việc năng động như hiện nay",
+        title: "Phân bón NPK",
+        description: "Phân bón NPK tại Phân Bón Hà Lan được sản xuất theo công nghệ hóa lỏng UREA chứa đầy đủ các yếu tố dinh dưỡng đa lượng: N (đạm), P (lân), K (kali); trung lượng và vi lượng là các yếu tố quan trọng, cần thiết cho quá trình sinh trưởng của cây trồng., giúp cây tăng trưởng khỏe mạnh, tăng năng suất và tăng chất lượng cao nông sản",
         img: img2,
         path: "/catalog/ao-thun-dinosaur-02",
         color: "pink"
     },
     {
-        title: "Polo Nữ Coolmax Lacoste",
-        description: "Mẫu áo polo nữ được làm bằng chất liệu coolmax đem lại cảm giác mát lạnh khi mặc. Thiết kế mẫu áo polo coolmax này có kiểu dáng cực kỳ thoải mái. Tạo sự gọn gàng hứa hẹn sẽ là mẫu áo polo vô cùng hot trong thời điểm sắp tới",
+        title: "Siêu vỗ béo cho heo premix",
+        description: "Premix cho heo là một trong những công thức tối ưu giúp cải thiện dinh dưỡng và tăng cường sức đề kháng. Cùng Thuốc thú y Kim khánh khám phá hiệu quả thật sự từ dòng sản phẩm premix cho heo.",
         img: img3,
         path: "/catalog/ao-thun-dinosaur-03",
         color: "orange"
